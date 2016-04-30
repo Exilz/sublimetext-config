@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+componentWillUpdate (${1}nextProps, nextState) {
+	${2}
+}
+]]></content>
+    <tabTrigger>willupdate</tabTrigger>
+    <scope>source.js</scope>
+    <description>React : componentwillupdate</description>
+</snippet>

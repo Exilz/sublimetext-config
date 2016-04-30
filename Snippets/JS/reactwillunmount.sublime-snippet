@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+componentWillUnmount () {
+	${1}
+}
+]]></content>
+    <tabTrigger>willunmount</tabTrigger>
+    <scope>source.js</scope>
+    <description>React : componentwillunmount</description>
+</snippet>
