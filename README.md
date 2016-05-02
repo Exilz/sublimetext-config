@@ -18,6 +18,12 @@
 * Snippets (mainly JS / React)
 * Most useful packages
 
+## Tip : command line
+
+Don't forget to add Sublime to your terminal (OSX, same thing applies for Linux, though) :
+
+`ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl`
+
 ## Screenshots
 
 ![SublimeText 3 Configuration](http://i.imgur.com/gJAePcW.png)
