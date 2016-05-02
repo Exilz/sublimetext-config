@@ -1,5 +1,6 @@
 [
 { "keys": ["super+shift+k"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
 { "keys": ["super+:"], "command": "toggle_comment", "args": { "block": false } },
-{ "keys": ["super+s"], "command": "save_all" }
+{ "keys": ["super+s"], "command": "save_all" },
+{ "keys": ["super+shift+y"], "command": "toggle_side_bar" },
 ]
