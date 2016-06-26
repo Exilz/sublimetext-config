@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-componentDidUpdate (${1}nextProps, nextState) {
+componentDidUpdate (${1}prevProps, prevState) {
 	${2}
 }
 ]]></content>
