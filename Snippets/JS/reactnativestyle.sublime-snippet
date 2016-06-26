@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+import { StyleSheet } from 'react-native';
+
+export default StyleSheet.create({
+    ${1}
+});
+
+]]></content>
+    <tabTrigger>rnstyle</tabTrigger>
+    <scope>source.js</scope>
+    <description>React native : stylesheet</description>
+</snippet>
