@@ -3,4 +3,5 @@
 { "keys": ["super+:"], "command": "toggle_comment", "args": { "block": false } },
 { "keys": ["super+s"], "command": "save_all" },
 { "keys": ["super+shift+y"], "command": "toggle_side_bar" },
+{ "keys": ["ctrl+space"], "command": "auto_complete" }
 ]

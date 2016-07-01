@@ -5,16 +5,15 @@
 	],
 	"installed_packages":
 	[
-		"Atomizr",
 		"AutoFileName",
 		"Babel",
 		"Better CoffeeScript",
 		"BracketHighlighter",
+		"Color Highlighter",
 		"ColorPicker",
 		"DocBlockr",
 		"Emmet",
 		"Git",
-		"Git Conflict Resolver",
 		"GitGutter",
 		"JSX",
 		"Markdown Preview",
@@ -24,6 +23,7 @@
 		"Sass",
 		"SFTP",
 		"SideBarEnhancements",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint"
 	]

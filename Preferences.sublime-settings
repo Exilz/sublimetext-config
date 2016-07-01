@@ -1,6 +1,24 @@
 {
+	"binary_file_patterns":
+	[
+		"*.dds",
+		"*.eot",
+		"*.gif",
+		"*.ico",
+		"*.jar",
+		"*.jpeg",
+		"*.jpg",
+		"*.pdf",
+		"*.png",
+		"*.swf",
+		"*.tga",
+		"*.ttf",
+		"*.zip",
+		"/Users/Maxime/Developpement/jeuneafrique-app/app/platforms/**",
+		"/Users/Maxime/Developpement/jeuneafrique-app/app/www/**"
+	],
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/SublimeLinter/OneDark (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/One Dark (SL).tmTheme",
 	"folder_exclude_patterns":
 	[
 		"node_modules",
@@ -10,12 +28,17 @@
 		"CVS",
 		".meteor"
 	],
-	"font_size": 15,
+	"font_size": 14,
 	"ignored_packages":
 	[
+		"Handlebars",
 		"Vintage"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
-	"theme": "OneDarkMaterial.sublime-theme"
+	"original_color_scheme": "Packages/User/SublimeLinter/OneDark (SL).tmTheme",
+	"scroll_past_end": true,
+	"theme": "OneDarkMaterial.sublime-theme",
+	"translate_tabs_to_spaces": true,
+    "highlight_line": true
 }
